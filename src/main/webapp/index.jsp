@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Meditation has healing powers</h2>
+<h2>Balance is not something you find, it's something you create</h2>
 </body>
 </html>
